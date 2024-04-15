@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    margin: 2rem;
+}
+
+div {
+    display: inline-block;
+    margin: 1rem;
+    padding: 50px;
+    background-color: lightgoldenrodyellow;
+    border: 1px solid antiquewhite;
+}

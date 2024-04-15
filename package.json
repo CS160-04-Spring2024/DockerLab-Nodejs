@@ -1,0 +1,19 @@
+{
+  "name": "dockerlab-nodejs",
+  "version": "1.0.0",
+  "description": "Run a Node.js application in a Docker container.",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CS160-04-Spring2024/DockerLab-Nodejs.git"
+  },
+  "author": "Katherine Soohoo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2",
+    "pug": "^3.0.2"
+  }
+}
